@@ -19,9 +19,6 @@
         <mxCell id="6" style="shape=image;imageAspect=0;imageAlign=center;imageVerticalAlign=middle;fillColor=none;strokeColor=none;image=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMwMDAwMDAiLz48L3N2Zz4=" parent="1" vertex="1">
           <mxGeometry x="410" y="910" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7" style="shape=image;imageAspect=0;imageAlign=center;imageVerticalAlign=middle;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="450" width="300" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="9" value="500万像象可见光变焦相机&lt;br&gt;(表计读数/油污识测/观览对孔)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="120" y="145" width="200" height="40" as="geometry" />
         </mxCell>
@@ -157,15 +154,15 @@
             <mxPoint x="880" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#42A5F5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="29" edge="1">
+        <mxCell id="53" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#42A5F5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="550" as="sourcePoint" />
+            <mxPoint x="350" y="650" as="sourcePoint" />
             <mxPoint x="250" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="54" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#EF5350;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7" target="37" edge="1">
+        <mxCell id="54" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#EF5350;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="37" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="750" as="sourcePoint" />
+            <mxPoint x="350" y="650" as="sourcePoint" />
             <mxPoint x="250" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
