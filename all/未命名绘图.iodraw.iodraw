@@ -5,21 +5,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="OUkIhjsfwxvItVffRRF1-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="119" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUkIhjsfwxvItVffRRF1-1" value="超声传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="589" y="960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OUkIhjsfwxvItVffRRF1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OUkIhjsfwxvItVffRRF1-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="940" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="590" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUkIhjsfwxvItVffRRF1-2" value="里程计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="439" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUkIhjsfwxvItVffRRF1-3" value="电机及编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="283" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUkIhjsfwxvItVffRRF1-6" value="STM32底层驱动板" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="830" width="120" height="60" as="geometry" />
