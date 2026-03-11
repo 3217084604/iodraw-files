@@ -87,7 +87,7 @@
           <mxGeometry x="440" y="430" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="26" value="后台系统信息处理&lt;div&gt;开发板信息传输&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#66BB6A;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="650" y="430" width="200" height="50" as="geometry" />
+          <mxGeometry x="630" y="430" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="27" style="shape=image;imageAspect=0;imageAlign=center;imageVerticalAlign=middle;fillColor=none;strokeColor=none;image=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMwMDAwMDAiLz48L3N2Zz4=" parent="1" vertex="1">
           <mxGeometry x="660" y="440" width="30" height="30" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="440" y="750" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="40" value="多源特征融合与智能制定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="660" y="750" width="200" height="40" as="geometry" />
+          <mxGeometry x="630" y="750" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="41" value="螺栓预紧" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="880" y="510" width="150" height="37" as="geometry" />
