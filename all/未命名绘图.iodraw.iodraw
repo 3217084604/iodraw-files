@@ -16,7 +16,7 @@
         <mxCell id="fR1S_rhgQxEKUXzB4KUW-3" value="jetson开发板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fR1S_rhgQxEKUXzB4KUW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fR1S_rhgQxEKUXzB4KUW-5" value="底层控制板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
