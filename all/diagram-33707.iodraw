@@ -36,6 +36,14 @@
         <mxCell id="3" value="环境与状态感知 (多传感器输入)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#9ec1e5;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="1030" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6Pe61KdvbRuFV-c6W7HB-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="380" />
+              <mxPoint x="120" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4" value="感知数据处理与场景识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;gradientColor=none;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="300" height="40" as="geometry" />
         </mxCell>
