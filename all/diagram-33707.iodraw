@@ -116,7 +116,7 @@
           <mxGeometry x="440" y="750" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="40" value="多源特征融合与智能制定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="630" y="750" width="200" height="40" as="geometry" />
+          <mxGeometry x="650" y="750" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="41" value="螺栓预紧" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="880" y="540" width="150" height="30" as="geometry" />
