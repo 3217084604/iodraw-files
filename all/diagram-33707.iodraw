@@ -80,10 +80,7 @@
         <mxCell id="23" value="工业级防风麦克风降列&lt;br&gt;(&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:125%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;声纹&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;&lt;br/&gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-bidi-font-family:&lt;br/&gt;Arial;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-US&quot;&gt;FFT&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;line-height:125%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Arial;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;特征提取识别磨损&lt;/span&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="815" y="200.25" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_4pv8P2xKgIBkmBELiVQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="24" target="25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NDmV5q9wrxaOAtfN9ANJ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="25" target="NDmV5q9wrxaOAtfN9ANJ-59">
+        <mxCell id="_4pv8P2xKgIBkmBELiVQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" source="24" target="25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25" value="指令控制信息&lt;br&gt;&lt;div&gt;任务发布信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;gradientColor=#97d077;" parent="1" vertex="1">
@@ -95,7 +92,7 @@
         <mxCell id="28" value="移动闭环控制&lt;br&gt;(电机/机械臂动作)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="880" y="430" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_4pv8P2xKgIBkmBELiVQ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4" target="29" edge="1">
+        <mxCell id="_4pv8P2xKgIBkmBELiVQ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" source="4" target="29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="380" />
@@ -241,9 +238,6 @@
               <mxPoint x="855" y="635" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NDmV5q9wrxaOAtfN9ANJ-59" value="指令控制信息&lt;br&gt;&lt;div&gt;任务发布信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="670" y="430" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
