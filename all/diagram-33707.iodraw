@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="d1e2f3g4-h5i6-7j8k-9l0m-1n2o3p4q5r6s">
-    <mxGraphModel dx="698" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="37" value="异常诊断与&lt;br&gt;报警模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#EF5350;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="250" y="730" width="150" height="50" as="geometry" />
+          <mxGeometry x="260" y="740" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="38" style="shape=image;imageAspect=0;imageAlign=center;imageVerticalAlign=middle;fillColor=none;strokeColor=none;image=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiMwMDAwMDAiLz48L3N2Zz4=" parent="1" vertex="1">
           <mxGeometry x="260" y="740" width="30" height="30" as="geometry" />
@@ -125,10 +125,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39" value="动作执行机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#EF5350;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="450" y="740" width="150" height="40" as="geometry" />
+          <mxGeometry x="460" y="750" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="40" value="多源特征融合与智能制定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="650" y="740" width="200" height="40" as="geometry" />
+          <mxGeometry x="660" y="750" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="41" value="螺栓预紧" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="880" y="510" width="150" height="37" as="geometry" />
@@ -139,23 +139,19 @@
         <mxCell id="6Pe61KdvbRuFV-c6W7HB-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="601.4285714285713" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="860" y="600" />
-              <mxPoint x="880" y="600" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="43" value="自主润滑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="880" y="583" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="45" value="异常热源定位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="880" y="730" width="150" height="30" as="geometry" />
+          <mxGeometry x="890" y="740" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="46" value="火灾报警交叉验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="880" y="770" width="150" height="30" as="geometry" />
+          <mxGeometry x="890" y="780" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="47" value="危险气体/绝缘报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="880" y="810" width="150" height="30" as="geometry" />
+          <mxGeometry x="890" y="820" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#66BB6A;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="4" target="24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -194,11 +190,11 @@
         </mxCell>
         <mxCell id="61" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#FFA726;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="40" target="45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="760" as="sourcePoint" />
-            <mxPoint x="880" y="745" as="targetPoint" />
+            <mxPoint x="860" y="770" as="sourcePoint" />
+            <mxPoint x="890" y="755" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="865" y="760" />
-              <mxPoint x="865" y="745" />
+              <mxPoint x="875" y="770" />
+              <mxPoint x="875" y="755" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -214,11 +210,11 @@
         </mxCell>
         <mxCell id="63" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#FFA726;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="40" target="47" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="760" as="sourcePoint" />
-            <mxPoint x="880" y="825" as="targetPoint" />
+            <mxPoint x="860" y="770" as="sourcePoint" />
+            <mxPoint x="890" y="835" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="865" y="760" />
-              <mxPoint x="865" y="825" />
+              <mxPoint x="875" y="770" />
+              <mxPoint x="875" y="835" />
             </Array>
           </mxGeometry>
         </mxCell>
