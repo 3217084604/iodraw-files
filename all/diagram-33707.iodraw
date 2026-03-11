@@ -81,7 +81,7 @@
         <mxCell id="24" value="自主移动与巡检任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#66BB6A;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="闭环控制执行&lt;br&gt;(同服/视觉)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#66BB6A;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="25" value="指令控制信息&lt;br&gt;&lt;div&gt;任务发布信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#66BB6A;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="450" y="430" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="26" value="高分辨率同腥电机编码器&lt;br&gt;(本体底底/机械管关节惟度和速度闭环)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#66BB6A;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
