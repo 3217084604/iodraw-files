@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="d1e2f3g4-h5i6-7j8k-9l0m-1n2o3p4q5r6s">
-    <mxGraphModel dx="284" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="698" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="43" value="自主润滑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="880" y="583" width="150" height="37" as="geometry" />
+          <mxGeometry x="880" y="581.5" width="150" height="37" as="geometry" />
         </mxCell>
         <mxCell id="45" value="异常热源定位" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="890" y="740" width="150" height="30" as="geometry" />
