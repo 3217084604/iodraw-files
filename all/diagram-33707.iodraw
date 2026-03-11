@@ -136,9 +136,13 @@
         <mxCell id="42" value="工具快换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="880" y="655" width="150" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="6Pe61KdvbRuFV-c6W7HB-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="43">
+        <mxCell id="6Pe61KdvbRuFV-c6W7HB-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="601.4285714285713" as="targetPoint" />
+            <mxPoint x="860" y="601.4285714285713" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="860" y="600" />
+              <mxPoint x="880" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="43" value="自主润滑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#FFA726;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
