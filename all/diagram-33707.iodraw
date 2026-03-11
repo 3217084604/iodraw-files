@@ -112,7 +112,7 @@
         <mxCell id="6Pe61KdvbRuFV-c6W7HB-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" source="39" target="40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="39" value="动作执行机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="39" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;动作执行机构&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="440" y="750" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6Pe61KdvbRuFV-c6W7HB-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" source="40" target="45" edge="1">
@@ -213,7 +213,7 @@
         <mxCell id="29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;专用作业任务&lt;br&gt;(螺栓/润滑/操作)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="250" y="580" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="37" value="异常诊断与&lt;br&gt;报警模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;gradientColor=#ea6b66;" parent="1" vertex="1">
+        <mxCell id="37" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;异常诊断与&lt;br&gt;报警模式&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="250" y="745" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="45" value="红外温升判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;gradientColor=#ea6b66;" parent="1" vertex="1">
