@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Pe61KdvbRuFV-c6W7HB-82" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="500" width="220" height="200" as="geometry" />
+          <mxGeometry x="630" y="500" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6Pe61KdvbRuFV-c6W7HB-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6Pe61KdvbRuFV-c6W7HB-82">
           <mxGeometry width="220" height="200" as="geometry" />
@@ -248,6 +248,9 @@
         </mxCell>
         <mxCell id="35" value="功能执行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#42A5F5;fontColor=#333333;fontSize=12;" parent="6Pe61KdvbRuFV-c6W7HB-82" vertex="1">
           <mxGeometry x="10" y="140" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Pe61KdvbRuFV-c6W7HB-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Pe61KdvbRuFV-c6W7HB-69" target="41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
